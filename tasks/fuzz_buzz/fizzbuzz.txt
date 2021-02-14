@@ -1,0 +1,23 @@
+Input: use input() or predefined varaible having numeric value, ex. input_variable = 100 (don't make anything big)
+
+Intro: Fizz-Buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any multiple of three with the word “fizz”, and any multiple of five with the word “buzz”.
+
+Task
+
+For this challenge you need to write a computer program that will display all the numbers between 1 and your input.
+For each number divisible by three the computer will display the word “fizz”,
+For each number divisible by five the computer will display the word “buzz”,
+For each number divisible by three and by five the computer will display the word “fizz-buzz”,
+This is what the output could look like:
+
+Output:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+…
+
+Hint: modulo and if/elif/else

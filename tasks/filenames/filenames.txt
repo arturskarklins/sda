@@ -1,0 +1,23 @@
+Given:
+
+file_list = [
+    '/home/python/learning/good_stuff/code1.py',
+    '/home/python/learning/folder/x/new folder/hidden_file.dat',
+    '/home/python/learning/my/files/funny_cat.jpeg',
+    '/home/python/learning/files/this.is.weird.file.name.pdf' # this one as bonus
+    ]
+
+Split each name to return only filename and extension, code must be universal and work for any input.
+
+Output:
+    Filename: code1
+    Extension: py
+            
+    Filename: hidden_file
+    Extension: dat
+
+    Filename: funny_cat
+    Extension: jpeg
+
+    Filename: this.is.weird.file.name
+    Extension: pdf
