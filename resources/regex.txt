@@ -1,0 +1,30 @@
+abcdefghijklmnoprqstuvwxyz
+ABCDEFGHIJKLMNOPRQSTUVWXYZ
+01234567890
+
+!@#$%^&*()_+/*-=.?<>/|[]{}
+
+# emails
+pikachu@pokemon.com
+Snorlax.22@poke-mon.co.uk
+pidgeotto-black@pokemon.net
+charizard.the.great@pokemon.lv
+
+# phones
+22 21 56 77
+23600098
+24-00-00-24
+
+# titles
+Mr Bob
+Mr. T
+Mrs Anna
+Mr. Tom
+
+# urls
+http://youtube.com
+https://www.google.org
+http://www.twitter.co.uk
+https://facebook.net
+
+some random text goes here
