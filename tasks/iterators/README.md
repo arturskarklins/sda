@@ -2,8 +2,8 @@
 Create a solution for iterator, which takes argument `number` (as amount) and returns random numbers (must be `int`) based on the input argument. Add default 1, so if user doesn't give input it returns at least one randomly generated number.
 Please, re-create the same solution with generator functions.
 
-Additionally create function that sums all digits per given number and print together with the randomly created number. This can be a separate function, outside the iterator class
-That is sum for 12345 is 15, for 67890 it's 30, etc.
+Additionally create function that sums all digits per given number and print together with the randomly created number. This can be a separate function, outside the iterator class.
+That is, sum for 12345 is 15, for 67890 it's 30, etc.
 
 # Result
 Should be like:
