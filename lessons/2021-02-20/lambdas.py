@@ -23,6 +23,9 @@ print(list(filter(lambda x: x.startswith('t'), profiles)))
 # smaple of reduce
 import functools
 print(functools.reduce(lambda x, y: x + y, profiles))
+# 1 - x=bob, y=anna, return bobanna;
+# 2 - x=bobanna, y=tom, return bobannatom;
+# 3 - x=bobannatom, y=tim, return bobannatomtim;
 
 # get min and max out of tuples, with multi elements
 tuples_numbers = [(2, 3), (4, 1), (5, 7), (6, 3)]

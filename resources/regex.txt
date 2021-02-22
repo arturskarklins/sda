@@ -1,27 +1,27 @@
-abcdefghijklmnoprqstuvwxyz
+abcdefghijkl@mnoprqstuvwxyz
 ABCDEFGHIJKLMNOPRQSTUVWXYZ
 01234567890
 
 !@#$%^&*()_+/*-=.?<>/|[]{}
 
-# emails
+# emails - [a-zA-z0-9_\.-]+@[a-zA-Z-]+\.[a-z.]+
 pikachu@pokemon.com
 Snorlax.22@poke-mon.co.uk
 pidgeotto-black@pokemon.net
 charizard.the.great@pokemon.lv
 
-# phones
+# phones - ^\d{2}[- ]?\d{2}[- ]?\d\d[- ]?\d\d$
 22 21 56 77
 23600098
 24-00-00-24
 
-# titles
+# titles - Mr[\.s]? [a-zA-z]+
 Mr Bob
 Mr. T
 Mrs Anna
 Mr. Tom
 
-# urls
+# urls - (http|https)://(www.)?([a-z]+)\.([a-z.]+)
 http://youtube.com
 https://www.google.org
 http://www.twitter.co.uk
