@@ -1,6 +1,6 @@
 ## Scope
 
-Build SQL transaction query set with at least 3 SAVEPOINTs and accoridingly 3 actions. Below just a sample of idea, attached the same just with SQL code.
+Build SQL transaction query set with at least 3 SAVEPOINTs and accordingly 3 actions. Below just a sample of idea, attached the same just with SQL code.
 
 ## Exercise
 
