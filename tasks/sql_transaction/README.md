@@ -4,7 +4,7 @@ Build SQL transaction query set with at least 3 SAVEPOINTs and accordingly 3 act
 
 ## Exercise
 
-Preferaly use latest class work from https://github.com/arturskarklins/sda/blob/main/lessons/2021-03-14/sda_book_class.sql as base.
+Preferably use latest class work from https://github.com/arturskarklins/sda/blob/main/lessons/2021-03-14/sda_book_class.sql as base.
 
 1. Fill the missing gaps of code below, represented as [..].
 
